@@ -1,7 +1,7 @@
 # FRChessPortal
 WebApp des tournois d'échecs en France
 
-Ecrite en Python avec Flask
+Ecrit en Python avec Flask
 
 1/ Web Scrapping du site : http://www.echecs.asso.fr/
 Récupération des tournois avec Selenium & Beautiful Soup :
